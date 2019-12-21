@@ -1,0 +1,1 @@
+An exercise in Java multithreading, http methods and dynamic html. The server runs at port 2540 and, when accessed via a web browser, displays either a requested file or the contents of a requested directory at or below the working directory ('/'). 
